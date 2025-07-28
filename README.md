@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing AI Agent Development and Autom
 
 ## 🚀 Live Demo
 
-**Portfolio**: [https://syedfahimdev.github.io/ai-agent-portfolio](https://syedfahimdev.github.io/ai-agent-portfolio)
+**Portfolio**: [portfolio.syedfahim.me](portfolio.syedfahim.me)
 
 ## ✨ Features
 
