@@ -45,7 +45,7 @@ export const ContactSection = () => {
 
     try {
       // Using Formspree for easy email handling
-      const response = await fetch('https://formspree.io/f/YOUR_FORM_ID', {
+      const response = await fetch('https://formspree.io/f/mnnzvnka', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
